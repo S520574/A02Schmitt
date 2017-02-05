@@ -1,0 +1,57 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    background-color: azure;
+    color: darkslategray;
+}
+
+img {
+    width: 70%;
+}
+
+p {
+    font-size: 1.125em;
+}
+
+.navButton {
+    font-size: 1.5em;
+}
+
+.bigText {
+    font-size: 2.5em;
+}
+
+.displayText {
+    display: none;
+}
+
+#titleHeader {
+    font-size: 3.5em;
+    text-align: center;
+}
+
+#results {
+    border-color: black;
+    border-width: 5px;
+    border-radius: 5px;
+    border-style: outset;
+}
+#siteTitle {
+    color: aqua
+}
+
+
+
+
+
+
+
+
+
+
+
+
